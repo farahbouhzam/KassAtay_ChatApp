@@ -25,7 +25,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## The link of the hosted page is :
 https://chatapp-a9297.web.app
 ##Colaborators:
+Farah Bouhzam
 Chaima EDDIB
 Khadija Imad
 Hiba Ouhmad
-Farah Bouhzam*
+
